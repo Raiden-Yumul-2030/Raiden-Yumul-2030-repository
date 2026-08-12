@@ -15,15 +15,15 @@
 ### Your task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
 
 ## **Step 1:** Identify the Big Problem
-*Main Problem:* 
+*Main Problem:* The machine has its systems corrupted, as it does not do calculations and instructions correctly
 
 ## Step 2: Identify three to four Sub-Problems
 ### *Please list possible sub-problems:*
 
-1.
-2.
-3.
-4.
+1. 
+2. 
+3. 
+4. 
 
 ## **Step 3:** Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
