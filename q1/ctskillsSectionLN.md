@@ -1,7 +1,7 @@
 # **Computational Thinking Exercise: "Smart Vending Machine"**
  **Section:** *9-Arayat*    **Score:** *-*
 
- **C# / Name:** *-, Yumul, -*     **Date:** *August 13, 2026*
+ **C# / Name**: *w3#16/Veniegas , #17/Yumul, #18/Cabanayan*     **Date:** *August 13, 2026*
 
 
 ## ***Scenario:***
@@ -15,15 +15,44 @@
 ### Your task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
 
 ## **Step 1:** Identify the Big Problem
-*Main Problem:* The machine has its systems corrupted, as it does not do calculations and instructions correctly
+*Main Problem:* The machine is not able to correctly or efficiently process transaction, leading to errors regarding change, inventory, item selection, and speed.
 
 ## Step 2: Identify three to four Sub-Problems
 ### *Please list possible sub-problems:*
 
-1. 
-2. 
-3. 
-4. 
+1. Incorrect change calculation and dispensing
+2. Lack of monitoring inventory and notifications
+3. Incorrect item selection
+4. Inefficient/slow when used for multiple transactions over a short period of time
 
 ## **Step 3:** Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
+1. Incorrect change calculation and dispensing - Algorithm Design (Create an accurate and precise algorithm that can compare the paid amount and the price of the item, calculate the difference of the two values, and dispense the correct amount of change)
+2. Lack of monitoring inventory and notifications - Pattern Recognition (Monitor the remaining quantity of each remaining item and recognize patterns such as the inventory of a certain item reaching a minimum, which will then trigger a notification indicating low stock.)
+3. Incorrect item selection - Abstraction (Hide complex details and focus only on necessary information, including item name, quantity, price, and item code.)
+4. Inefficient/slow when used for multiple transactions over a short period of time - Decomposition (Break the process into smaller parts. For example, the vending machine's process can be broken down into selection, payment, validation, checking of inventory, and dispensing.)
+
+## **Step 4:** Draw a flowchart or write a pseudocode for the identified sub-problem
+Print item names and prices
+
+INPUT selectedd item
+
+IF selected item is available THEN
+  Print item price
+  INPUT amount of money inserted
+
+  IF money inserted >= item price THEN
+     Calculate change
+     Dispense item
+     Dispense change
+     Update inventory
+  ELSE
+     Print "Insufficient payment"
+     Return money
+  END IF
+
+ELSE 
+  Print "Item is out of stock"
+END IF
+
+END
