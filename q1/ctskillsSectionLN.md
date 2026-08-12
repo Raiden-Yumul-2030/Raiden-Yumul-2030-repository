@@ -27,10 +27,10 @@
 
 ## **Step 3:** Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
-1. Incorrect change calculation and dispensing - Algorithm Design (Create an accurate and precise algorithm that can compare the paid amount and the price of the item, calculate the difference of the two values, and dispense the correct amount of change)
-2. Lack of monitoring inventory and notifications - Pattern Recognition (Monitor the remaining quantity of each remaining item and recognize patterns such as the inventory of a certain item reaching a minimum, which will then trigger a notification indicating low stock.)
-3. Incorrect item selection - Abstraction (Hide complex details and focus only on necessary information, including item name, quantity, price, and item code.)
-4. Inefficient/slow when used for multiple transactions over a short period of time - Decomposition (Break the process into smaller parts. For example, the vending machine's process can be broken down into selection, payment, validation, checking of inventory, and dispensing.)
+1. Incorrect change calculation and dispensing - Algorithm Design (To fix this issue, we can create an accurate and precise algorithm that compares the paid amount and the price of the item, calculate the difference of the two values, and dispense the correct amount of change)
+2. Lack of monitoring inventory and notifications - Pattern Recognition (We can fix code to make it so that it can effectively monitor the how much of each item is left and recognize patterns such as the inventory of a certain item hitting a baseline, which will then trigger a notification indicating low stock.)
+3. Incorrect item selection - Abstraction (Hide complex details and focus only on necessary information which includes the item name and code, quantity being bought, price of the item.)
+4. Inefficient/slow when used for multiple transactions over a short period of time - Decomposition (Break the process into smaller parts. For example, the vending machine's process can be broken down into selection of item, payment, checking of inventory, and dispensing.)
 
 ## **Step 4:** Draw a flowchart or write a pseudocode for the identified sub-problem
 Print item names and prices
