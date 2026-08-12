@@ -1,7 +1,7 @@
 # **Computational Thinking Exercise: "Smart Vending Machine"**
  **Section:** *9-Arayat*    **Score:** *-*
 
- **C# / Name**: *w3#16/Veniegas , #17/Yumul, #18/Cabanayan*     **Date:** *August 13, 2026*
+ **C# / Name**: *#16/Veniegas , #17/Yumul, #18/Cabanayan*     **Date:** *August 13, 2026*
 
 
 ## ***Scenario:***
