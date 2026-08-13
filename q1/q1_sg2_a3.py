@@ -1,5 +1,5 @@
-birthyear = int(input("Hello! Input your birth year to know your zodiac sign. (It cannot be before 1900):"))
-signs = [Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, Pig]
+birthyear = int(input("Input your birth year to know your zodiac sign. (It cannot be before 1900): "))
+signs = ["Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake", "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig"]
 
 if birthyear < 1900:
   print("That year is not supported (Before 1900)")
