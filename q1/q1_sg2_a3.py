@@ -6,3 +6,5 @@ if birthyear < 1900: #Statement to filter years before 1900
 else: #Valid statement function
   number = (birthyear - 1900) % 12 #Uses modulo to loop
   print(f"Your zodiac sign is {signs[number]}!") #Output
+
+input("Type anything to end program") #So that the code can end on the user's terms
