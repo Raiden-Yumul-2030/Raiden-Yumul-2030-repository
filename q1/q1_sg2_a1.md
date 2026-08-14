@@ -1,3 +1,4 @@
+
 # **Computational Thinking Exercise: "Smart Vending Machine"**
  **Section:** *9-Arayat*    **Score:** *-*
 
@@ -56,3 +57,4 @@ ELSE
 END IF
 
 END
+<img width="1704" height="738" alt="Screenshot 2026-08-14 152454" src="https://github.com/user-attachments/assets/dfae0249-9a55-4c09-a572-cfe5829b56bd" />
