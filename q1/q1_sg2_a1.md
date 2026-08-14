@@ -34,27 +34,4 @@ For each sub-problem, apply CT skills:
 4. Inefficient/slow when used for multiple transactions over a short period of time - Decomposition (Break the process into smaller parts. For example, the vending machine's process can be broken down into selection of item, payment, checking of inventory, and dispensing.)
 
 ## **Step 4:** Draw a flowchart or write a pseudocode for the identified sub-problem
-Print item names and prices
-
-INPUT selected item
-
-IF selected item is available THEN
-  Print item price
-  INPUT amount of money inserted
-
-  IF money inserted >= item price THEN
-     Calculate change
-     Dispense item
-     Dispense change
-     Update inventory
-  ELSE
-     Print "Insufficient payment"
-     Return money
-  END IF
-
-ELSE 
-  Print "Item is out of stock"
-END IF
-
-END
 <img width="1704" height="738" alt="Screenshot 2026-08-14 152454" src="https://github.com/user-attachments/assets/dfae0249-9a55-4c09-a572-cfe5829b56bd" />
