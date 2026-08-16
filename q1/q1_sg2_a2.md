@@ -1,14 +1,12 @@
-Annex C
-Code Quality Assessment Worksheet
+# Code Quality Assessment Worksheet
 
-Section: __________________________________ Score:____________
+**Section:** *9-Arayat* **Score:** *-*
 
-C# / Name:_________________________________ Date: _____________
+**C# / Name:** *-, Yumul, -* **Date:** *August 16, 2026*
 
 
-Instructions:
-
-The problem: Finding the highest (Maximum) number from a given list of numbers.
+## ***Instructions:***
+### **The problem: Finding the highest (Maximum) number from a given list of numbers.**
 
 
 PseudoCode 1
